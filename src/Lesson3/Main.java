@@ -22,7 +22,7 @@ public class Main {
         }
         System.out.println(map);
 
-        var phoneBook = new PhoneBook();
+        PhoneBook phoneBook = new PhoneBook();
         phoneBook.add("Viktor","8888");
         phoneBook.add("Dimon","9999");
         phoneBook.add("Alex","7777");
